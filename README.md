@@ -1,0 +1,2 @@
+# Eureka-Server-registry
+ConfiguringEurekaServer
